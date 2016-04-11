@@ -111,12 +111,26 @@ body{
     background-color: #000;
     color: #fff;
     padding: 1em;
+    position: relative;
 }
 
 .page-header h1 {
     font-size: 1em;
     margin: 0;
     text-transform: uppercase;
+}
+
+.fafa-bars {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+
+}
+
+section.purple {
+    position: relative;
+    margin: 0;
+    padding:  0;
 }
 
 
