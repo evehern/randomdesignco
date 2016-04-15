@@ -40,6 +40,8 @@
     <h2>ABOUT US</h2>
 
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nam non, explicabo cum inventore, molestiae fuga nulla repellendus architecto rerum nostrum at amet, officia eum quisquam earum ipsam similique ad!</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nam non, explicabo cum inventore, molestiae fuga nulla repellendus architecto rerum nostrum at amet, officia eum quisquam earum ipsam similique ad!</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nam non, explicabo cum inventore, molestiae fuga nulla repellendus architecto rerum nostrum at amet, officia eum quisquam earum ipsam similique ad!</p>
 </section>
 
 <section class="page-section">
@@ -79,19 +81,45 @@
     </a>
     <a href="#">
         <article class="project-thumb">
-            <h3>Project 6</h3>
+            <h3>Project 7</h3>
             <img src="a12-assets/6-nightlife.jpg" alt="nightlife">
         </article>
     </a>
     <a href="#">
         <article class="project-thumb">
-            <h3>Project 7</h3>
+            <h3>Project 8</h3>
+            <img src="a12-assets/image8.png" alt="nightlife">
+        </article>
+    </a>
+    <a href="#">
+        <article class="project-thumb">
+            <h3>Project 9</h3>
+            <img src="a12-assets/image9.gif" alt="nightlife">
+        </article>
+    </a>
+    <a href="#">
+        <article class="project-thumb">
+            <h3>Project 10</h3>
+            <img src="a12-assets/image10.jpg" alt="nightlife">
+        </article>
+    </a>
+    <a href="#">
+        <article class="project-thumb">
+            <h3>Project 11</h3>
             <img src="a12-assets/7-bar.jpg" alt="bar">
         </article>
     </a>
     </div>
 
 </section>
+
+<section class="page-section jumbotron">
+        <div class="jumbotron_content">
+        <h2>CONTACT US</h2>
+        <a href="#" class="btn">info@randomdesignco.com</a>
+        </div>
+        <img class="jumbotron_bg" src="a12-assets/mailboxes.jpg" alt="mailboxes">
+    </section>
 
 <p> © 2016 Random Design Co.</p>
 
