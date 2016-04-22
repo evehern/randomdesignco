@@ -103,6 +103,7 @@ html{
 }
 
 body {
+    padding-top: 3em;
 
 }
 
@@ -139,6 +140,7 @@ img {
     top: 0;
     left: 0;
     width: 100%;
+    z-index: 1;
 
 }
 
@@ -179,7 +181,7 @@ img {
 .jumbotron_bg {
     display: block;
     position: relative;
-    z-index: -10
+    z-index: -10;
     width: 100%;
 
 }
@@ -212,7 +214,7 @@ img {
     position: relative;
     width: 50%;
     float: left;
-    background-color: hsla (0, 100%, 100%, 0.75)
+    background-color: hsla (0, 100%, 100%, 0.75);
     border: 1px solid white;
 
 }
