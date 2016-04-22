@@ -102,16 +102,30 @@ html{
     box-sizing: inherit;    
 }
 
+body {
+
+}
+
 
 h1 {
-    font-size: 5em;
+    font-size: 1em;
     text-transform: uppercase;
 }
+
+h2
 
 h3 {
     font-size: 3em;
     text-transform: uppercase;
 }
+
+h4
+
+h5 {
+    font-size: 1em;
+    text-transform: uppercase;
+}
+
 
 img {
     max-width: 100%;
@@ -133,8 +147,10 @@ img {
 }
 .page-header .main-nav {
     position: absolute;
-    top: 1em
+    top: 1em;
     right: 1em;
+   
+
 }
 
 .page-section {
